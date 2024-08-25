@@ -20,11 +20,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Screenshot of recipe page](./screen.jpg)
+![Screenshot of recipe page](./screen.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://127.0.0.1:5500/Index.html)
+- Solution URL: [solution link](http://127.0.0.1:5500/Index.html)
 
 ## My process
 
